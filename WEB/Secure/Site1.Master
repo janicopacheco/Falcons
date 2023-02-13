@@ -1,0 +1,424 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Falcon.Secure.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
+
+    <title>Falcon</title>
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="../assets/img/favicon/favicon.ico" />
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet" />
+
+    <!-- Icons. Uncomment required icon fonts -->
+    <link rel="stylesheet" href="../assets/vendor/fonts/boxicons.css" />
+
+    <!-- Core CSS -->
+    <link rel="stylesheet" href="../assets/vendor/css/core.css" class="template-customizer-core-css" />
+    <link rel="stylesheet" href="../assets/vendor/css/theme-default.css" class="template-customizer-theme-css" />
+    <link rel="stylesheet" href="../assets/css/demo.css" />
+
+    <!-- Vendors CSS -->
+    <link rel="stylesheet" href="../assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css" />
+
+    <link rel="stylesheet" href="../assets/vendor/libs/apex-charts/apex-charts.css" />
+    <!-- Helpers -->
+    <script src="../assets/vendor/js/helpers.js"></script>
+
+    <script src="../assets/js/config.js"></script>
+
+    <style type="text/css">
+        .field-required {
+            color: red;
+        }
+
+        .pagination-ys {
+            /*display: inline-block;*/
+            padding-left: 0;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+
+            .pagination-ys table > tbody > tr > td {
+                display: inline;
+            }
+
+                .pagination-ys table > tbody > tr > td > a,
+                .pagination-ys table > tbody > tr > td > span {
+                    position: relative;
+                    float: left;
+                    padding: 8px 12px;
+                    line-height: 1.42857143;
+                    text-decoration: none;
+                    color: #154a96;
+                    background-color: #ffffff;
+                    border: 1px solid #dddddd;
+                    margin-left: -1px;
+                }
+
+                .pagination-ys table > tbody > tr > td > span {
+                    position: relative;
+                    float: left;
+                    padding: 8px 12px;
+                    line-height: 1.42857143;
+                    text-decoration: none;
+                    margin-left: -1px;
+                    z-index: 2;
+                    color: #aea79f;
+                    background-color: #f5f5f5;
+                    border-color: #dddddd;
+                    cursor: default;
+                }
+
+                .pagination-ys table > tbody > tr > td:first-child > a,
+                .pagination-ys table > tbody > tr > td:first-child > span {
+                    margin-left: 0;
+                    border-bottom-left-radius: 4px;
+                    border-top-left-radius: 4px;
+                }
+
+                .pagination-ys table > tbody > tr > td:last-child > a,
+                .pagination-ys table > tbody > tr > td:last-child > span {
+                    border-bottom-right-radius: 4px;
+                    border-top-right-radius: 4px;
+                }
+
+                .pagination-ys table > tbody > tr > td > a:hover,
+                .pagination-ys table > tbody > tr > td > span:hover,
+                .pagination-ys table > tbody > tr > td > a:focus,
+                .pagination-ys table > tbody > tr > td > span:focus {
+                    color: #eabd2f;
+                    background-color: #eeeeee;
+                    border-color: #dddddd;
+                }
+    </style>
+
+    <link href="../assets/select/select2.min.css" rel="stylesheet" />
+    <script src="../assets/select/jquery-3.6.0.min.js"></script>
+    <script src="../assets/select/select2.min.js" defer></script>
+    <script src="../assets/vendor/js/bootstrap.js"></script>
+
+    <script type="text/javascript">
+
+        function isNumberKey(evt) {
+            var charCode = (evt.which) ? evt.which : evt.keyCode;
+            if (charCode != 46 && charCode > 31
+                && (charCode < 48 || charCode > 57))
+                return false;
+
+            return true;
+        }
+
+
+        function Comma(Num) { //function to add commas to textboxes
+            Num += '';
+            Num = Num.replace(',', ''); Num = Num.replace(',', ''); Num = Num.replace(',', '');
+            Num = Num.replace(',', ''); Num = Num.replace(',', ''); Num = Num.replace(',', '');
+            x = Num.split('.');
+            x1 = x[0];
+            x2 = x.length > 1 ? '.' + x[1] : '';
+            var rgx = /(\d+)(\d{3})/;
+            while (rgx.test(x1))
+                x1 = x1.replace(rgx, '$1' + ',' + '$2');
+            return x1 + x2;
+        }
+
+        $(document).keypress(
+            function (event) {
+                if (event.which == '13') {
+                    event.preventDefault();
+                }
+            });
+
+    </script>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="layout-wrapper layout-content-navbar">
+            <div class="layout-container">
+                <!-- Menu -->
+                <aside id="layout-menu" class="layout-menu menu-vertical menu bg-menu-theme">
+                    <div style="padding: 20px; text-align: center;">
+                        <asp:Image runat="server" ID="ImageLogo" ImageUrl="~/assets/image/logo.png" Width="200px" />
+                    </div>
+
+                    <div class="menu-inner-shadow"></div>
+
+                    <ul class="menu-inner py-1">
+                        <!-- Dashboard -->
+                        <li class="menu-item" id="master-home">
+                            <a href="Home.aspx" class="menu-link">
+                                <i class="menu-icon tf-icons bx bx-home-circle"></i>
+                                <div data-i18n="Analytics">Home</div>
+                            </a>
+                        </li>
+
+                        <li class="menu-item" id="master-quotation">
+                            <a href="Quotations.aspx" class="menu-link">
+                                <i class="menu-icon tf-icons bx bx-notepad"></i>
+                                <div data-i18n="Tables">Quotations</div>
+                            </a>
+                        </li>
+                        <li class="menu-item" id="master-project">
+                            <a href="Projects.aspx" class="menu-link">
+                                <i class="menu-icon tf-icons bx bx-book-content"></i>
+                                <div data-i18n="Tables">Projects</div>
+                            </a>
+                        </li>
+
+
+                        <!-- Layouts -->
+                        <li class="menu-item" id="master-manage">
+                            <a href="javascript:void(0);" class="menu-link menu-toggle">
+                                <i class="menu-icon tf-icons bx bx-layout"></i>
+                                <div data-i18n="Layouts">Manage</div>
+                            </a>
+
+
+
+                            <ul class="menu-sub">
+                                <li class="menu-item" id="manage-client">
+                                    <a href="Customer.aspx" class="menu-link">
+                                        <div data-i18n="Without menu">Clients</div>
+                                    </a>
+                                </li>
+                            </ul>
+                            <ul class="menu-sub">
+                                <li class="menu-item" id="manage-particular">
+                                    <a href="Particulars.aspx" class="menu-link">
+                                        <div data-i18n="Without menu">Particulars</div>
+                                    </a>
+                                </li>
+                            </ul>
+                            <ul class="menu-sub">
+                                <li class="menu-item" id="manage-shipment">
+                                    <a href="Shipments.aspx" class="menu-link">
+                                        <div data-i18n="Without menu">Shipments</div>
+                                    </a>
+                                </li>
+                            </ul>
+
+                            <ul class="menu-sub">
+                                <li class="menu-item" id="manage-container">
+                                    <a href="Containers.aspx" class="menu-link">
+                                        <div data-i18n="Without menu">Containers</div>
+                                    </a>
+                                </li>
+                            </ul>
+                            <ul class="menu-sub">
+                                <li class="menu-item" id="manage-currency">
+                                    <a href="Currencies.aspx" class="menu-link">
+                                        <%--                         <i class="menu-icon tf-icons bx bx-money"></i>--%>
+                                        <div data-i18n="Without menu">Currency</div>
+                                    </a>
+                                </li>
+                            </ul>
+                            <ul class="menu-sub">
+                                <li class="menu-item" id="manage-status">
+                                    <a href="Status.aspx" class="menu-link">
+                                        <%--<i class="menu-icon tf-icons bx bx-table"></i>--%>
+                                        <div data-i18n="Tables">Status</div>
+                                    </a>
+                                </li>
+
+
+                            </ul>
+
+
+
+
+                        </li>
+
+                        <li class="menu-header small text-uppercase">
+                            <span class="menu-header-text">Utilities</span>
+                        </li>
+                        <!-- Tables -->
+
+
+
+
+                        <li class="menu-item" id="master-tc">
+                            <a href="TermsConditions.aspx" class="menu-link">
+                                <i class="menu-icon tf-icons bx bx-notepad"></i>
+                                <div data-i18n="Tables">Terms & Conditions</div>
+                            </a>
+                        </li>
+
+                        <li class="menu-item" id="master-users">
+                            <a href="Users.aspx" class="menu-link">
+                                <i class="menu-icon tf-icons bx bx-user"></i>
+                                <div data-i18n="Tables">Users</div>
+                            </a>
+                        </li>
+
+                        <li class="menu-item" id="master-roles">
+                            <a href="UserRoles.aspx" class="menu-link">
+                                <i class="menu-icon tf-icons bx bx-user-pin"></i>
+                                <div data-i18n="Tables">Roles</div>
+                            </a>
+                        </li>
+
+                        <li class="menu-item" id="master-logs">
+                            <a href="Audittrails.aspx" class="menu-link">
+                                <i class="menu-icon tf-icons bx bx-terminal"></i>
+                                <div data-i18n="Tables">System Logs</div>
+                            </a>
+                        </li>
+
+                        <!-- CANCELLED -->
+                        <li class="menu-header small text-uppercase">
+                            <span class="menu-header-text">Cancelled</span>
+                        </li>
+                        <li class="menu-item" id="master-cancelled">
+                            <a href="QuotationsCancelled.aspx" class="menu-link">
+                                <i class="menu-icon tf-icons bx bx-notepad"></i>
+                                <div data-i18n="Tables">Quotations</div>
+                            </a>
+                        </li>
+
+
+
+
+
+
+                    </ul>
+                </aside>
+                <!-- / Menu -->
+                <div class="layout-page">
+                    <!-- Navbar -->
+                    <nav
+                        class="layout-navbar container-xxl navbar navbar-expand-xl navbar-detached align-items-center bg-navbar-theme"
+                        id="layout-navbar">
+                        <div class="layout-menu-toggle navbar-nav align-items-xl-center me-3 me-xl-0 d-xl-none">
+                            <a class="nav-item nav-link px-0 me-xl-4" href="javascript:void(0)">
+                                <i class="bx bx-menu bx-sm"></i>
+                            </a>
+                        </div>
+
+                        <div class="navbar-nav-right d-flex align-items-center" id="navbar-collapse">
+
+
+                            <ul class="navbar-nav flex-row align-items-center ms-auto">
+                                <!-- Place this tag where you want the button to render. -->
+
+
+                                <!-- User -->
+                                <li class="nav-item navbar-dropdown dropdown-user dropdown">
+                                    <a class="nav-link dropdown-toggle hide-arrow" href="javascript:void(0);" data-bs-toggle="dropdown">
+                                        <div class="avatar avatar-online">
+                                            <img src="../assets/img/avatars/1.png" alt class="w-px-40 h-auto rounded-circle" />
+                                        </div>
+                                    </a>
+                                    <ul class="dropdown-menu dropdown-menu-end">
+                                        <li>
+                                            <a class="dropdown-item" href="#">
+                                                <div class="d-flex">
+                                                    <div class="flex-shrink-0 me-3">
+                                                        <div class="avatar avatar-online">
+                                                            <img src="../assets/img/avatars/1.png" alt class="w-px-40 h-auto rounded-circle" />
+                                                        </div>
+                                                    </div>
+                                                    <div class="flex-grow-1">
+                                                        <span class="fw-semibold d-block">
+                                                            <asp:Label runat="server" ID="LabelFullName"></asp:Label></span>
+                                                        <small class="text-muted">
+                                                            <asp:Label runat="server" ID="LabelRole"></asp:Label></small>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <div class="dropdown-divider"></div>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="Profile.aspx">
+                                                <i class="bx bx-user me-2"></i>
+                                                <span class="align-middle">My Profile</span>
+                                            </a>
+                                        </li>
+
+
+                                        <li>
+                                            <div class="dropdown-divider"></div>
+                                        </li>
+                                        <li>
+                                            <asp:LinkButton runat="server" ID="BtnLogout" CssClass="dropdown-item" OnClick="BtnLogout_Click">
+                                                 <i class="bx bx-power-off me-2"></i>
+                                                <span class="align-middle">Log Out</span>
+
+                                            </asp:LinkButton>
+
+
+                                        </li>
+                                    </ul>
+                                </li>
+                                <!--/ User -->
+                            </ul>
+                        </div>
+                    </nav>
+                    <!-- / Navbar -->
+                    <div class="content-wrapper">
+                        <div class="container-xxl flex-grow-1 container-p-y">
+                            <!-- Content -->
+                            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                            </asp:ContentPlaceHolder>
+                            <!-- / Content -->
+                        </div>
+                        <%-- <!-- Footer -->
+                        <footer class="content-footer footer bg-footer-theme">
+                            <div class="container-xxl d-flex flex-wrap justify-content-between py-2 flex-md-row flex-column">
+                                <div class="mb-2 mb-md-0">
+                                    Copyright © Straight Forward
+                 
+                                    <script>
+                                        document.write(new Date().getFullYear());
+                  </script>
+
+
+
+                                </div>
+                                
+                            </div>
+                        </footer>--%>
+                        <!-- / Footer -->
+                        <div class="content-backdrop fade"></div>
+                    </div>
+                </div>
+            </div>
+            <!-- Overlay -->
+            <div class="layout-overlay layout-menu-toggle"></div>
+        </div>
+    </form>
+
+    <!-- Core JS -->
+    <!-- build:js assets/vendor/js/core.js -->
+    <%--   <script src="../assets/vendor/libs/jquery/jquery.js"></script>--%>
+    <script src="../assets/vendor/libs/popper/popper.js"></script>
+
+    <script src="../assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.js"></script>
+
+    <script src="../assets/vendor/js/menu.js"></script>
+    <!-- endbuild -->
+
+    <!-- Vendors JS -->
+    <script src="../assets/vendor/libs/apex-charts/apexcharts.js"></script>
+
+    <!-- Main JS -->
+    <script src="../assets/js/main.js"></script>
+
+    <!-- Page JS -->
+    <script src="../assets/js/dashboards-analytics.js"></script>
+
+
+
+</body>
+</html>

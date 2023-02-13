@@ -1,0 +1,179 @@
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\StraightForward.dll.config
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\StraightForward.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\StraightForward.pdb
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\roslyn\csc.exe
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\roslyn\csc.exe.config
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\roslyn\csc.rsp
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\roslyn\csi.exe
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\roslyn\csi.exe.config
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\roslyn\csi.rsp
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\roslyn\System.Buffers.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\roslyn\System.Collections.Immutable.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\roslyn\System.Memory.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\roslyn\System.Numerics.Vectors.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\roslyn\System.Reflection.Metadata.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\roslyn\vbc.exe
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\roslyn\vbc.exe.config
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\roslyn\vbc.rsp
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\roslyn\VBCSCompiler.exe
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\roslyn\VBCSCompiler.exe.config
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\ENTITY.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\HtmlRenderer.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\HtmlRenderer.PdfSharp.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\PdfSharp.Charting.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\PdfSharp.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\PROCESS.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\DATA.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\Microsoft.Practices.ObjectBuilder2.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\ENTITY.pdb
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\PROCESS.pdb
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\HtmlRenderer.pdb
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\HtmlRenderer.PdfSharp.pdb
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\PdfSharp.xml
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\PdfSharp.Charting.xml
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\DATA.pdb
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\de\PdfSharp.resources.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\de\PdfSharp.Charting.resources.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\obj\Debug\StraightForward.csproj.AssemblyReference.cache
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\obj\Debug\StraightForward.csproj.CoreCompileInputs.cache
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\obj\Debug\StraightForward.csproj.CopyComplete
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\obj\Debug\StraightForward.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\obj\Debug\StraightForward.pdb
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\BouncyCastle.Crypto.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\itextsharp.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\StraightForward\bin\itextsharp.xml
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\StraightForward.dll.config
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\StraightForward.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\StraightForward.pdb
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\roslyn\csc.exe
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\roslyn\csc.exe.config
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\roslyn\csc.rsp
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\roslyn\csi.exe
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\roslyn\csi.exe.config
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\roslyn\csi.rsp
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\roslyn\System.Buffers.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\roslyn\System.Memory.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\roslyn\vbc.exe
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\roslyn\vbc.exe.config
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\roslyn\vbc.rsp
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\roslyn\VBCSCompiler.exe
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\BouncyCastle.Crypto.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\ENTITY.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\HtmlRenderer.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\HtmlRenderer.PdfSharp.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\itextsharp.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\PdfSharp.Charting.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\PdfSharp.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\PROCESS.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\DATA.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\ENTITY.pdb
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\PROCESS.pdb
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\HtmlRenderer.pdb
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\HtmlRenderer.PdfSharp.pdb
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\itextsharp.xml
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\PdfSharp.xml
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\PdfSharp.Charting.xml
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\DATA.pdb
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\de\PdfSharp.resources.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\de\PdfSharp.Charting.resources.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\obj\Debug\StraightForward.csproj.AssemblyReference.cache
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\obj\Debug\StraightForward.csproj.CoreCompileInputs.cache
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\obj\Debug\StraightForward.csproj.CopyComplete
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\obj\Debug\StraightForward.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\obj\Debug\StraightForward.pdb
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\itext.barcodes.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\itext.commons.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\itext.forms.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\itext.html2pdf.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\itext.io.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\itext.kernel.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\itext.layout.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\itext.pdfa.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\itext.sign.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\itext.styledxmlparser.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\itext.svg.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\Microsoft.Extensions.Logging.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\Microsoft.Extensions.Options.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\System.Buffers.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\System.Memory.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\System.Numerics.Vectors.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\System.ValueTuple.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\BouncyCastle.Crypto.xml
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\itext.barcodes.xml
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\itext.commons.xml
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\itext.forms.xml
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\itext.html2pdf.xml
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\itext.io.xml
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\itext.kernel.xml
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\itext.layout.xml
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\itext.pdfa.xml
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\itext.sign.xml
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\itext.styledxmlparser.xml
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\itext.svg.xml
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\Microsoft.Extensions.Logging.xml
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\Microsoft.Extensions.Options.xml
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\System.Buffers.xml
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\System.Memory.xml
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\System.Numerics.Vectors.xml
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\StraightForward\bin\System.ValueTuple.xml

@@ -1,0 +1,56 @@
+C:\Nico\Project\StraightForward\Application\StraightForward\PROCESS\obj\Debug\PROCESS.csproj.AssemblyReference.cache
+C:\Nico\Project\StraightForward\Application\StraightForward\PROCESS\obj\Debug\PROCESS.csproj.CoreCompileInputs.cache
+C:\Nico\Project\StraightForward\Application\StraightForward\PROCESS\bin\Debug\PROCESS.dll
+C:\Nico\Project\StraightForward\Application\StraightForward\PROCESS\bin\Debug\PROCESS.pdb
+C:\Nico\Project\StraightForward\Application\StraightForward\PROCESS\bin\Debug\DATA.dll
+C:\Nico\Project\StraightForward\Application\StraightForward\PROCESS\bin\Debug\ENTITY.dll
+C:\Nico\Project\StraightForward\Application\StraightForward\PROCESS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Nico\Project\StraightForward\Application\StraightForward\PROCESS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Nico\Project\StraightForward\Application\StraightForward\PROCESS\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Nico\Project\StraightForward\Application\StraightForward\PROCESS\bin\Debug\DATA.pdb
+C:\Nico\Project\StraightForward\Application\StraightForward\PROCESS\bin\Debug\ENTITY.pdb
+C:\Nico\Project\StraightForward\Application\StraightForward\PROCESS\obj\Debug\PROCESS.csproj.CopyComplete
+C:\Nico\Project\StraightForward\Application\StraightForward\PROCESS\obj\Debug\PROCESS.dll
+C:\Nico\Project\StraightForward\Application\StraightForward\PROCESS\obj\Debug\PROCESS.pdb
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\PROCESS\bin\Debug\PROCESS.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\PROCESS\bin\Debug\PROCESS.pdb
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\PROCESS\bin\Debug\DATA.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\PROCESS\bin\Debug\ENTITY.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\PROCESS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\PROCESS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\PROCESS\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\PROCESS\bin\Debug\DATA.pdb
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\PROCESS\bin\Debug\ENTITY.pdb
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\PROCESS\obj\Debug\PROCESS.csproj.AssemblyReference.cache
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\PROCESS\obj\Debug\PROCESS.csproj.CoreCompileInputs.cache
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\PROCESS\obj\Debug\PROCESS.csproj.CopyComplete
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\PROCESS\obj\Debug\PROCESS.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\PROCESS\obj\Debug\PROCESS.pdb
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\PROCESS\bin\Debug\PROCESS.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\PROCESS\bin\Debug\PROCESS.pdb
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\PROCESS\bin\Debug\DATA.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\PROCESS\bin\Debug\ENTITY.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\PROCESS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\PROCESS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\PROCESS\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\PROCESS\bin\Debug\DATA.pdb
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\PROCESS\bin\Debug\ENTITY.pdb
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\PROCESS\obj\Debug\PROCESS.csproj.AssemblyReference.cache
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\PROCESS\obj\Debug\PROCESS.csproj.CoreCompileInputs.cache
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\PROCESS\obj\Debug\PROCESS.csproj.CopyComplete
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\PROCESS\obj\Debug\PROCESS.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\PROCESS\obj\Debug\PROCESS.pdb
+C:\Users\janic\Desktop\Nico\Projects\Falcon\Development\PROCESS\bin\Debug\PROCESS.dll
+C:\Users\janic\Desktop\Nico\Projects\Falcon\Development\PROCESS\bin\Debug\PROCESS.pdb
+C:\Users\janic\Desktop\Nico\Projects\Falcon\Development\PROCESS\bin\Debug\DATA.dll
+C:\Users\janic\Desktop\Nico\Projects\Falcon\Development\PROCESS\bin\Debug\ENTITY.dll
+C:\Users\janic\Desktop\Nico\Projects\Falcon\Development\PROCESS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\janic\Desktop\Nico\Projects\Falcon\Development\PROCESS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\janic\Desktop\Nico\Projects\Falcon\Development\PROCESS\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\janic\Desktop\Nico\Projects\Falcon\Development\PROCESS\bin\Debug\DATA.pdb
+C:\Users\janic\Desktop\Nico\Projects\Falcon\Development\PROCESS\bin\Debug\ENTITY.pdb
+C:\Users\janic\Desktop\Nico\Projects\Falcon\Development\PROCESS\obj\Debug\PROCESS.csproj.AssemblyReference.cache
+C:\Users\janic\Desktop\Nico\Projects\Falcon\Development\PROCESS\obj\Debug\PROCESS.csproj.CoreCompileInputs.cache
+C:\Users\janic\Desktop\Nico\Projects\Falcon\Development\PROCESS\obj\Debug\PROCESS.csproj.CopyComplete
+C:\Users\janic\Desktop\Nico\Projects\Falcon\Development\PROCESS\obj\Debug\PROCESS.dll
+C:\Users\janic\Desktop\Nico\Projects\Falcon\Development\PROCESS\obj\Debug\PROCESS.pdb

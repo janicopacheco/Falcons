@@ -1,0 +1,24 @@
+C:\Nico\Project\StraightForward\Application\StraightForward\ENTITY\bin\Debug\ENTITY.dll
+C:\Nico\Project\StraightForward\Application\StraightForward\ENTITY\bin\Debug\ENTITY.pdb
+C:\Nico\Project\StraightForward\Application\StraightForward\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Nico\Project\StraightForward\Application\StraightForward\ENTITY\obj\Debug\ENTITY.dll
+C:\Nico\Project\StraightForward\Application\StraightForward\ENTITY\obj\Debug\ENTITY.pdb
+C:\Nico\Project\StraightForward\Application\StraightForward\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\ENTITY\bin\Debug\ENTITY.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\ENTITY\bin\Debug\ENTITY.pdb
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\ENTITY\obj\Debug\ENTITY.dll
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\ENTITY\obj\Debug\ENTITY.pdb
+C:\Nico\Project\StraightForward\Application\Repo\StraightForward\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\janic\Desktop\Nico\Projects\Straight Forward\Development\ENTITY\obj\Debug\ENTITY.pdb
+C:\Users\janic\Desktop\Nico\Projects\Falcon\Development\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\janic\Desktop\Nico\Projects\Falcon\Development\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\janic\Desktop\Nico\Projects\Falcon\Development\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\janic\Desktop\Nico\Projects\Falcon\Development\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\janic\Desktop\Nico\Projects\Falcon\Development\ENTITY\obj\Debug\ENTITY.pdb
+C:\Users\janic\Desktop\Nico\Projects\Falcon\Development\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
